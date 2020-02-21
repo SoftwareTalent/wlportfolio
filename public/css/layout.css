@@ -990,10 +990,14 @@ input[type=submit]:hover {
 
 .history {
    padding-bottom: 100px;;
+   background: #161415 url(../images/header-banner.png) top center;
+   
 }
 .history-header {
    padding-top: 100px;
    margin-bottom: 20px;
+ 
+
 }
 
 .history-header h1 {
